@@ -1,5 +1,5 @@
 # US Stock Market
-For this project I did to analysis of the overall U.S stock market and the current 3 largest companies based on market cap. 
+For this project I did a visual analysis in Tablaeu of the overall U.S stock market and the current 3 largest companies based on market cap. 
 
   - Indexes included: Dow Jones, Apple, Microsoft and Nvidia
 
