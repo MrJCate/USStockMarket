@@ -3,4 +3,4 @@ For this project I did to analysis of the overall U.S stock market and the curre
 
   - Indexes included: Dow Jones, Apple, Microsoft and Nvidia
 
-[Click here to open dashboard](https://public.tableau.com/app/profile/justen.cate/viz/USStockMarket-1Year/Dashboard1)
+[Click here to open dashboard]([(https://public.tableau.com/app/profile/justen.cate/viz/USStockMarket-10Years/Dashboard1])
